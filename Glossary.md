@@ -158,11 +158,34 @@ Just drink in the general concepts and file them away for later.
     The "User space" portion that along with Linux, forms a complete operating system.
     
 * [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
+    
+    An operating system emulator that can run on top of another operating system.
+
 * [**Command Line**](https://en.wikipedia.org/wiki/Command-line_interface)
+
+    A means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text.
+    
 * [**Interpreter**](https://en.wikipedia.org/wiki/Interpreter_(computing))
+
+    An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without previously compiling them into a machine language program.
+
+    [Cartoon!](https://www.youtube.com/watch?v=_C5AHaS1mOA)
+    
 * [**Compiler**](https://en.wikipedia.org/wiki/Compiler)
+    A program that translates source code from a high-level programming language to a lower level language.
+
 * [**database**](https://en.wikipedia.org/wiki/Database)
+    
+    A computer application that organizes data.
+
 * [**mysql**](https://en.wikipedia.org/wiki/MySQL)
+
+    An popular open-source database that we will use in the class.
+    
 * [**ssh**](https://en.wikipedia.org/wiki/Secure_Shell)
+
+    An encrypted network protocol for initiating text-based shell sessions (command line interfaces)
+    
 * [**git**](https://en.wikipedia.org/wiki/Git_(software))
 
+    A popular [revision control system](https://en.wikipedia.org/wiki/Distributed_version_control)
