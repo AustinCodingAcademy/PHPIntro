@@ -130,6 +130,9 @@ Just drink in the general concepts and file them away for later.
     is a very different thing and cannot be used to edit code.
 
 * [**network**](https://en.wikipedia.org/wiki/Computer_network)
+
+    A topographical system consisting of [links](https://en.wikipedia.org/wiki/Data_link) and [nodes](https://en.wikipedia.org/wiki/Node_(networking)) which allows computers to exchange data.
+    
 * [**operating system**](https://en.wikipedia.org/wiki/Operating_system)
 * [**unix**](https://en.wikipedia.org/wiki/Unix)
 * [**linux**](https://en.wikipedia.org/wiki/Linux)
