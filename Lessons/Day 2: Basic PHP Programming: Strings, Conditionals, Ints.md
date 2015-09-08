@@ -51,5 +51,5 @@
 
 * Read the [Wikipedia Page on Variables](https://en.wikipedia.org/wiki/Variable_(computer_science))
 * Find the PHP.net page about Variables by Googling "php.net variables", and read what it says under "Basics"
-* Some short exercises to come
+* The student will be given an excerpt of PHP code and will be asked to circle / highlighting / find all the Variable Assignments, as well as all the later uses of the variable's Value.
 
