@@ -2,8 +2,8 @@
 
 ## Daily objective
 
-What do you want students to be able to do by the end of the class?
-
+* Students will learn about what variables are, how to assign values to them, and how to echo those values or use them in computations
+* Students will see examples of PHP Code, and learn about getting in and out of `<?php ?>` and using `if`/`else` for logic
 
 ## Instructional plan
 
@@ -13,8 +13,23 @@ What do you want students to be able to do by the end of the class?
 * Do an example involving integer arithmetic
 * BRIEF intro to Database: show them a `SELECT` query and an `INSERT` query, but they don't have to "get it" yet
 
-* How will you teach students the objective?
-* Include real world application of concept to demonstrate relevance.
+### Examples
+
+#### Assigning values to variables
+
+    <?php
+    $name = "Ryan";
+    $age = 31;
+    $role = "Instructor";
+    $organization = "Austin Coding Academy";
+    $hobbies = array("music", "hiking", "reading");
+    ?>
+    
+#### Echoing/printing values of variables
+
+    <?php
+    echo "Hello, my name is $name, and I am fulfilling the role of $role at $organization.  My hobbies include $hobbies[0], $hobbies[1], and $hobbies[2], and I am $age years old."
+    ?>
 
 ## Assessment of objective
 
