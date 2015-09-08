@@ -129,14 +129,14 @@ Just drink in the general concepts and file them away for later.
     do not create Plain Text files - they create proprietary binary file formats such as .doc, which
     is a very different thing and cannot be used to edit code.
 
-* [**Command Line**](https://en.wikipedia.org/wiki/Text_editor)
-* * [**Command Line**](https://en.wikipedia.org/wiki/Text_editor)
-* operating system
-* virtual machine
-* gnu/linux
-* ssh
-* git
-* mysql
-* database
-* network
-* 
+* [**network**](https://en.wikipedia.org/wiki/Computer_network)
+* [**operating system**](https://en.wikipedia.org/wiki/Operating_system)
+* [**linux**](https://en.wikipedia.org/wiki/Linux)
+* [**gnu**](https://en.wikipedia.org/wiki/GNU)
+* [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
+* [**Command Line**](https://en.wikipedia.org/wiki/Command-line_interface)
+* [**database**](https://en.wikipedia.org/wiki/Database)
+* [**mysql**](https://en.wikipedia.org/wiki/MySQL)
+* [**ssh**](https://en.wikipedia.org/wiki/Secure_Shell)
+* [**git**](https://en.wikipedia.org/wiki/Git_(software))
+
