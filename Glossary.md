@@ -131,10 +131,13 @@ Just drink in the general concepts and file them away for later.
 
 * [**network**](https://en.wikipedia.org/wiki/Computer_network)
 * [**operating system**](https://en.wikipedia.org/wiki/Operating_system)
+* [**unix**](https://en.wikipedia.org/wiki/Unix)
 * [**linux**](https://en.wikipedia.org/wiki/Linux)
 * [**gnu**](https://en.wikipedia.org/wiki/GNU)
 * [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
 * [**Command Line**](https://en.wikipedia.org/wiki/Command-line_interface)
+* [**Interpreter**](https://en.wikipedia.org/wiki/Interpreter_(computing))
+* [**Compiler**](https://en.wikipedia.org/wiki/Compiler)
 * [**database**](https://en.wikipedia.org/wiki/Database)
 * [**mysql**](https://en.wikipedia.org/wiki/MySQL)
 * [**ssh**](https://en.wikipedia.org/wiki/Secure_Shell)
