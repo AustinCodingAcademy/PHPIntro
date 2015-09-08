@@ -138,5 +138,5 @@ Just drink in the general concepts and file them away for later.
 * [**database**](https://en.wikipedia.org/wiki/Database)
 * [**mysql**](https://en.wikipedia.org/wiki/MySQL)
 * [**ssh**](https://en.wikipedia.org/wiki/Secure_Shell)
-* [**git**](https://en.wikipedia.org/wiki/Git_(software))
+* [**git**](https://en.wikipedia.org/wiki/Git_(software)
 
