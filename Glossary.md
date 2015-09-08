@@ -129,7 +129,7 @@ Just drink in the general concepts and file them away for later.
     do not create Plain Text files - they create proprietary binary file formats such as .doc, which
     is a very different thing and cannot be used to edit code.
 
-* [**network**](https://en.wikipedia.org/wiki/Computer_network)
+* [**Computer Network**](https://en.wikipedia.org/wiki/Computer_network)
 
     A topographical system consisting of [links](https://en.wikipedia.org/wiki/Data_link) and [nodes](https://en.wikipedia.org/wiki/Node_(networking)) which allows computers to exchange data.
     
@@ -147,17 +147,17 @@ Just drink in the general concepts and file them away for later.
 
 * [**User space**](https://en.wikipedia.org/wiki/User_space)
 
-    Part of the operating system where application software executes.
+    The part of the operating system where application software executes.
 
-* [**linux**](https://en.wikipedia.org/wiki/Linux)
+* [**Linux**](https://en.wikipedia.org/wiki/Linux)
 
     A popular unix-like kernel that is mostly [open-source](https://en.wikipedia.org/wiki/Open_source) licensed. 
     
-* [**gnu**](https://en.wikipedia.org/wiki/GNU)
+* [**Gnu**](https://en.wikipedia.org/wiki/GNU)
 
     The "User space" portion that along with Linux, forms a complete operating system.
     
-* [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
+* [**Virtual Machine**](https://en.wikipedia.org/wiki/Virtual_machine)
     
     An operating system emulator that can run on top of another operating system.
 
@@ -175,18 +175,18 @@ Just drink in the general concepts and file them away for later.
  
     A program that translates source code from a high-level programming language to a lower level language.
 
-* [**database**](https://en.wikipedia.org/wiki/Database)
+* [**Database**](https://en.wikipedia.org/wiki/Database)
     
     A computer application that organizes data.
 
-* [**mysql**](https://en.wikipedia.org/wiki/MySQL)
+* [**Mysql**](https://en.wikipedia.org/wiki/MySQL)
 
     An popular open-source database that we will use in the class.
     
-* [**ssh**](https://en.wikipedia.org/wiki/Secure_Shell)
+* [**SSH**](https://en.wikipedia.org/wiki/Secure_Shell)
 
     An encrypted network protocol for initiating text-based shell sessions (command line interfaces)
     
-* [**git**](https://en.wikipedia.org/wiki/Git_(software))
+* [**Git**](https://en.wikipedia.org/wiki/Git_(software))
 
     A popular [revision control system](https://en.wikipedia.org/wiki/Distributed_version_control)
