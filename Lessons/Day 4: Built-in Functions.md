@@ -2,7 +2,11 @@
 
 ## Daily objective
 
-What do you want students to be able to do by the end of the class?
+* Students will be able to understand and recall the 3 aspects of what a function does:
+    0. Take inputs
+    1. Do stuff (can have side effects)
+    2. Return an output
+* Students will be able to identify what a function call looks like in an excerpt PHP code
 
 ## Instructional plan
 
@@ -10,14 +14,25 @@ What do you want students to be able to do by the end of the class?
 * String processing functions (`strtolower`, `strtoupper`, `strlen`, `trim`, etc)
 * Array functions (`array_sum`, `array_replace`, `sort`)
 
-More
+### Examples
 
-* How will you teach students the objective?
-* Include real world application of concept to demonstrate relevance.
+Suppose I had sloppily entered my name like in lowercase like this:
+
+    $name = 'ryan';
+
+But then later on I wanted my program to say "Hey Ryan!", and I didn't want it to be capitalized properly.  I could use the builtin `ucfirst()` function:
+
+    $capName = ucfirst($name);
+    echo "Hey $capName";
 
 ## Assessment of objective
 
 * How do you know students can do the objective?
+
+* Students will be asked to name the 3 aspects of what a function does
+* Students will be given an excerpt of PHP code and asked to circle / identify all the function calls
+* Students will be given a list of built-in function names and a list of descriptions of what they do, and be asked to connect the function names with the correct descriptions
+* Students will be given a short programming assignment that requires the correct use of a few builtin functions, such as string processing functions or array functions
 
 ## Homework
 
