@@ -3,9 +3,9 @@
 ## Daily objective
 
 * Students will be able to understand and recall the 3 aspects of what a function does:
-    0. Take inputs
-    1. Do stuff (can have side effects)
-    2. Return an output
+    1. Take inputs
+    2. Do stuff (can have side effects)
+    3. Return an output
 * Students will be able to identify what a function call looks like in an excerpt PHP code
 
 ## Instructional plan
