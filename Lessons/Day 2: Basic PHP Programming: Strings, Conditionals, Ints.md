@@ -50,5 +50,6 @@
 ## Homework
 
 * Read the [Wikipedia Page on Variables](https://en.wikipedia.org/wiki/Variable_(computer_science))
+* Find the PHP.net page about Variables by Googling "php.net variables", and read what it says under "Basics"
 * Some short exercises to come
 
