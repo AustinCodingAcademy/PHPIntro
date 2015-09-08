@@ -2,7 +2,10 @@
 
 ## Daily objective
 
-What do you want students to be able to do by the end of the class?
+* Students will understand the concept of arrays as being variables that can hold a collection of values instead of just 1
+* Students will know how to create a new array and store it in a variable
+* Students will know how to add new items to an existing array
+* Students will know how to loop through an array and print out the values inside
 
 ## Instructional plan
 
@@ -11,10 +14,22 @@ What do you want students to be able to do by the end of the class?
 * Adding new items to an array
 * Simple loop example that displays the contents of an array
 
-More
+### Examples
 
-* How will you teach students the objective?
-* Include real world application of concept to demonstrate relevance.
+From the last class I told you some of my hobbies:
+
+    <?php
+    $name = "Ryan";
+    $hobbies = array("music", "hiking", "reading");
+    ?>
+    
+My `$hobbies` are stored as an array.  What if I took on another hobby, say dancing?
+
+    $hobbies[] = "dancing";
+    
+To see all the values that are now contained in the array, use `print_r()`:
+
+    print_r($hobbies);
 
 ## Assessment of objective
 
