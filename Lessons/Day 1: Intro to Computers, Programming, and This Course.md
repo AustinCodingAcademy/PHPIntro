@@ -28,3 +28,4 @@
 * Read through the [Glossary of Terms](/Glossary.md), and write down 1-3 questions you have upon reading it
 * Write down 1-3 things you've been amazed about in the last 15 years that have had to do with computers and computer programming
 * What are some things you'd like to use computer programming to do?
+* The student will be given a list of Terms from the Glossary, and their Definitions, out of order, and will be asked to match the Term with its Definition.
