@@ -134,7 +134,17 @@ Just drink in the general concepts and file them away for later.
     A topographical system consisting of [links](https://en.wikipedia.org/wiki/Data_link) and [nodes](https://en.wikipedia.org/wiki/Node_(networking)) which allows computers to exchange data.
     
 * [**operating system**](https://en.wikipedia.org/wiki/Operating_system)
+    Software that manages computer hardware and software, and provides common services for computer programs.
+
 * [**unix**](https://en.wikipedia.org/wiki/Unix)
+    A family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix.
+
+* [**Kernel**](https://en.wikipedia.org/wiki/Kernel_(operating_system))
+    A computer program that manages I/O (input/output) requests from software, and translates them into hardware instructions.
+
+* [**User space**](https://en.wikipedia.org/wiki/User_space)
+    Part of the operating system where application software executes.
+
 * [**linux**](https://en.wikipedia.org/wiki/Linux)
 * [**gnu**](https://en.wikipedia.org/wiki/GNU)
 * [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
