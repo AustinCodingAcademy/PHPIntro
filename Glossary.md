@@ -167,7 +167,7 @@ Just drink in the general concepts and file them away for later.
     
 * [**Interpreter**](https://en.wikipedia.org/wiki/Interpreter_(computing))
 
-    An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without previously compiling them into a machine language program.
+    An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without previously compiling them into a lower level language.
 
     [Cartoon!](https://www.youtube.com/watch?v=_C5AHaS1mOA)
     
