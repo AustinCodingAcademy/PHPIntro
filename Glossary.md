@@ -172,6 +172,7 @@ Just drink in the general concepts and file them away for later.
     [Cartoon!](https://www.youtube.com/watch?v=_C5AHaS1mOA)
     
 * [**Compiler**](https://en.wikipedia.org/wiki/Compiler)
+* 
     A program that translates source code from a high-level programming language to a lower level language.
 
 * [**database**](https://en.wikipedia.org/wiki/Database)
