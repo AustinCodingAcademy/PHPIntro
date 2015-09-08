@@ -33,7 +33,11 @@ To see all the values that are now contained in the array, use `print_r()`:
 
 ## Assessment of objective
 
-* How do you know students can do the objective?
+Ask the students to do the following:
+
+* Create an array called `$friends` that contains 3 of their friends that they've known since their childhoold.
+* Append (add) to your `$friends` array a few new friends that they met later on in life.  Don't actually add them to the initial definition - use `$friends[] = ...` to add them after the fact.
+* Now loop through your `$friends` array with a `foreach` loop and print out your friends one by one, preferably each on their own line.
 
 ## Homework
 
