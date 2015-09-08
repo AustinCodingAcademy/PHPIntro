@@ -33,12 +33,23 @@
 
 ## Assessment of objective
 
-* How do you know students can do the objective?
+* Students will be asked to make up variables and give them values, in response to questions like "What is your favorite color?", "What is your name?", etc., to fit them into a template they are given that looks like this:
+
+        echo "Hello, my name is $name.  My favorite color is $color."; # etc etc
+
+* They will then be asked to do the reverse: several variables and their assiged values will be given like so:
+
+        $business = "Microsoft";
+        $pointsGained = 2;
+        $shareholderMood = "excitement";
+
+  ...and they will have to come up with an `echo` statement that turns these variables into a story.
+
+* Students will be asked the difference between the 3 basic types in PHP - String, Number and Array.
 
 ## Homework
 
-* 10 hours of homework per week (1 hour on Mon/Tues, 9 hours on Wed/Thur)
-* Projects, problems, games, etc.
-* You can have students research concepts, watch videos, readings, etc.
-* Anything that makes students think, challenges them
+* Read through the [Glossary of Terms](/Glossary.md), and write down 1-3 questions you have upon reading it
+* Read the [Wikipedia Page on Variables](https://en.wikipedia.org/wiki/Variable_(computer_science))
+* Some short exercises to come
 
