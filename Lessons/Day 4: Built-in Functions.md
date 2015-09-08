@@ -36,7 +36,6 @@ But then later on I wanted my program to say "Hey Ryan!", and I didn't want it t
 
 ## Homework
 
-* 10 hours of homework per week (1 hour on Mon/Tues, 9 hours on Wed/Thur)
-* Projects, problems, games, etc.
-* You can have students research concepts, watch videos, readings, etc.
-* Anything that makes students think, challenges them
+* Is there a builtin function that would have helped you with your sum computation from the last homework?  Google it and see what you find.
+* If you let the user input text and then you print it out on the web page later, it's dangerous because the user could have inputted HTML and javascript!  Can you find a builtin function that would Strip the Tags away from the string so that it no longer poses a threat?
+* Find a function that tells you if a variable has been set or not.
