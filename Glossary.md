@@ -151,8 +151,12 @@ Just drink in the general concepts and file them away for later.
 
 * [**linux**](https://en.wikipedia.org/wiki/Linux)
 
-A popular unix-like operating system that is mostly open-source licensed. 
+    A popular unix-like kernel that is mostly [open-source](https://en.wikipedia.org/wiki/Open_source) licensed. 
+    
 * [**gnu**](https://en.wikipedia.org/wiki/GNU)
+
+    The "User space" portion that along with Linux, forms a complete operating system.
+    
 * [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
 * [**Command Line**](https://en.wikipedia.org/wiki/Command-line_interface)
 * [**Interpreter**](https://en.wikipedia.org/wiki/Interpreter_(computing))
