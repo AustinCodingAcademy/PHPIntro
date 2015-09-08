@@ -41,8 +41,8 @@ Ask the students to do the following:
 
 ## Homework
 
-* 10 hours of homework per week (1 hour on Mon/Tues, 9 hours on Wed/Thur)
-* Projects, problems, games, etc.
-* You can have students research concepts, watch videos, readings, etc.
-* Anything that makes students think, challenges them
-
+* Create an array of numbers - 5 or more of whatever numbers you choose
+* Create a `foreach` loop that prints out all the numbers
+* Were all the numbers smashed together?  Make sure there's a space or a newline between them.
+* Write about how you think you might compute the sum of these numbers using a loop
+* Extra credit: Go through the loop and compute the sum.
