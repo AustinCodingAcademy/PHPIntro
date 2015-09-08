@@ -150,6 +150,8 @@ Just drink in the general concepts and file them away for later.
     Part of the operating system where application software executes.
 
 * [**linux**](https://en.wikipedia.org/wiki/Linux)
+
+A popular unix-like operating system that is mostly open-source licensed. 
 * [**gnu**](https://en.wikipedia.org/wiki/GNU)
 * [**virtual machine**](https://en.wikipedia.org/wiki/Virtual_machine)
 * [**Command Line**](https://en.wikipedia.org/wiki/Command-line_interface)
