@@ -35,3 +35,4 @@
 * Read through the [Glossary of Terms](/Glossary.md)
 * Read the [Wikipedia Page on Variables](https://en.wikipedia.org/wiki/Variable_(computer_science))
 * Some short exercises to come
+* 
