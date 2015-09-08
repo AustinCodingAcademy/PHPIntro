@@ -32,6 +32,6 @@
 
 ## Homework
 
-* Read through the [Glossary of Terms](/Glossary.md)
+* Read through the [Glossary of Terms](/Glossary.md), and write down 1-3 questions you have upon reading it
 * Read the [Wikipedia Page on Variables](https://en.wikipedia.org/wiki/Variable_(computer_science))
 * Some short exercises to come
