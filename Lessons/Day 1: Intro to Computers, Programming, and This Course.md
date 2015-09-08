@@ -1,8 +1,10 @@
-# Day 1: Intro to Computers, Programming, and This Course.md
+# Day 1: Intro to Computers, Programming, and This Course
 
 ## Daily objective
 
-What do you want students to be able to do by the end of the class?
+* Students will understand what computer programming is, and some examples of what you can do with it.
+* Students will be introduced to some of the [Programming Terms](/Glossary.md) and concepts that they will be learning in this course
+* Students will learn about their Virtual Machine environment, how it works and how they will be using it to learn to program
 
 ## Instructional plan
 
@@ -11,11 +13,6 @@ What do you want students to be able to do by the end of the class?
 * Talk about PHP in the context of web programming and briefly explain LAMP stack
 * Hello World type PHP examples, intro to variables and strings and maybe if
 * Review of how students' Virtual Machine environment works
-
-More
-
-* How will you teach students the objective?
-* Include real world application of concept to demonstrate relevance.
 
 ## Assessment of objective
 
