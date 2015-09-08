@@ -135,9 +135,9 @@ Just drink in the general concepts and file them away for later.
     
 * [**operating system**](https://en.wikipedia.org/wiki/Operating_system)
 
-    Software that manages computer hardware and software, and provides common services for computer programs.
+    Software that manages computer hardware and software, and provides common services for computer programs. Examples include Windows, OSX, Gnu/Linux, and the BSDs.
 
-* [**unix**](https://en.wikipedia.org/wiki/Unix)
+* [**Unix**](https://en.wikipedia.org/wiki/Unix)
 
     A family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix.
 
@@ -181,7 +181,7 @@ Just drink in the general concepts and file them away for later.
 
 * [**Mysql**](https://en.wikipedia.org/wiki/MySQL)
 
-    An popular open-source database that we will use in the class.
+    A popular open-source database that we will use in the class.
     
 * [**SSH**](https://en.wikipedia.org/wiki/Secure_Shell)
 
