@@ -6,6 +6,10 @@ throughout the Backend Intro course and beyond.  For now,
 don't worry if you don't totally understand each definition.
 Just drink in the general concepts and file them away for later.  
 
+* **LAMP STACK**
+
+    Linux, Apache, MySQL, and PHP.  One of the most common "stacks" for building Web Applications.
+
 * **[HTML](https://en.wikipedia.org/wiki/HTML)** (**H**yper**T**ext **M**arkup **L**anguage)
 
     Not a full programming language per se, but more of a "formatting language"
