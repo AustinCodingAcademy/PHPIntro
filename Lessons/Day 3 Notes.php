@@ -1,4 +1,20 @@
 <?php
+/*
+
+Day 3 of PHP Intro
+------------------
+
+We will:
+
+* Learn how to run php scripts from the Command Line
+* Learn some ways programs on the same computer talk to each other
+* Learn and practice more about variables, strings, numbers, arrays
+* Start talking about loops, e.g. foreach
+* Practice using the built-in functions we know and learn some more
+* Possibly introduce user-defined functions
+
+*/
+
 # let's learn more about the command line!
 
 # Review:   command line - place to run commands
