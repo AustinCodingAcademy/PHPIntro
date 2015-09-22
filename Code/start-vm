@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "This script will work for Macs, but for Windows it's different"
+cd ~/Desktop/VirtualMachines
+vagrant up
