@@ -1,18 +1,23 @@
 # Day 3: Arrays
 
-## Daily objective
+## Goal
 
-* Students will understand the concept of arrays as being variables that can hold a collection of values instead of just 1
-* Students will know how to create a new array and store it in a variable
-* Students will know how to add new items to an existing array
-* Students will know how to loop through an array and print out the values inside
+We will:
 
-## Instructional plan
+* Learn how to run php scripts from the Command Line
+* Learn some ways programs on the same computer talk to each other
+* Learn and practice more about variables, strings, numbers, arrays
+* Start talking about loops, e.g. foreach
+* Practice using the built-in functions we know and learn some more
+* Possibly introduce user-defined functions
 
-* Uses of arrays
-* Creating arrays
-* Adding new items to an array
-* Simple loop example that displays the contents of an array
+By the end we will:
+
+* Understand the concept of arrays as being variables that can hold a collection of values instead of just 1
+* Know how to create a new array and store it in a variable
+* Know how to add new items to an existing array
+* Know how to loop through an array and print out the values inside
+
 
 ### Examples
 

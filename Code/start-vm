@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "This script will work for Macs, but for Windows it's different"
+echo "This script works for Macs and Linux only (not Windows)"
 cd ~/Desktop/VirtualMachines
 vagrant up
