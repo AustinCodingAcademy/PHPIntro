@@ -10,7 +10,8 @@ directory. The desired file name will be written beside the problem.
 
 Compress (zip) the directory when you are finished and email the zip to [ryan@austincodingacademy.com](mailto:ryan@austincodingacademy.com) and 
 [clofton@austincodingacademy.com](mailto:clofton@austincodingacademy.com).
-The subject of the email should be `PHP Intro Assignment 3`.
+The subject of the email should be `PHP Intro Assignment 3`.  Make sure you
+use that subject so we can easily find your homework.
 
 Topics covered
 --------------
