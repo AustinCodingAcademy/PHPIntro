@@ -259,7 +259,7 @@ the content.
 [3]: http://www.hackingwithphp.com/5/4/0/the-array-operator
 [4]: https://www.youtube.com/watch?v=S1chCEi85NI
 [5]: http://ideone.com/vaW3Ga
-[6]: http://phpfiddle.org/lite?code=%3C?php\n\n$family%20=%20array(\n\t%27Barbara%27%20=%3E%20%27mom%27,\n\t%27Evan%27%20=%3E%20%27brother%27,\n\t%27Dani%27%20=%3E%20%27sister%27,\n\t%27Emilee%27%20=%3E%20%27sister%27\n);\n$me%20=%20%22Joe%22;\n\n?%3E\n\n%3Ch1%3E%3C?php%20echo%20$me;%20?%3E%27s%20family!%3C/h1%3E\n\n%3C?php%20foreach($family%20as%20$name%20=%3E%20$relationship):%20?%3E\n%3Cp%3E\n\t%3C?php%20echo%20$name;%20?%3E%20is%20my%20%3C?php%20echo%20$relationship;%20?%3E\n%3C/p%3E\n%3C?php%20endforeach;%20?%3E
+[6]: http://bit.ly/1LH02WC
 [7]: https://www.macs.hw.ac.uk/~pjbk/pathways/cp1/node78.html
 [8]: https://www.youtube.com/watch?v=r6_hIRYeGq8
 [9]: https://www.youtube.com/watch?v=PucdPQBdaIQ
