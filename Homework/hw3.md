@@ -260,7 +260,7 @@ the content.
 [4]: https://www.youtube.com/watch?v=S1chCEi85NI
 [5]: http://ideone.com/vaW3Ga
 [6]: http://bit.ly/1LH02WC
-[7]: https://www.macs.hw.ac.uk/~pjbk/pathways/cp1/node78.html
+[7]: https://www.macs.hw.ac.uk/~pjbk/pathways/cpp1/node78.html
 [8]: https://www.youtube.com/watch?v=r6_hIRYeGq8
 [9]: https://www.youtube.com/watch?v=PucdPQBdaIQ
 [10]: https://www.youtube.com/watch?v=tKnS3s8fOu4
