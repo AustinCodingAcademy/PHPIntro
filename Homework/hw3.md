@@ -99,7 +99,7 @@ question?
 10) (Discussion question): Regarding foreach loops, explain what the "current iteration"
 or the "current element" means.
 
-11) (Bonus question): True or False: An array of 100 numbers takes up memory than
+11) (Bonus question): True or False: An array of 100 numbers takes up more memory than
 100 individual numeric variables. Justify your answer.
 
 Problem 1 - Arrays - problem1.jpg
