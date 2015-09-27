@@ -8,9 +8,9 @@ Create a directory within your `htdocs` directory named `HW3`. Your answer/solut
 to each problem in this assignment should have its own designated file within the `HW3`
 directory. The desired file name will be written beside the problem.
 
-Compress (zip) the directory when you are finished and email the zip to
+Compress (zip) the directory when you are finished and email the zip to [ryan@austincodingacademy.com](mailto:ryan@austincodingacademy.com) and 
 [clofton@austincodingacademy.com](mailto:clofton@austincodingacademy.com).
-The subject of the email **must** be `PHP Intro Assignment 3`.
+The subject of the email should be `PHP Intro Assignment 3`.
 
 Topics covered
 --------------
