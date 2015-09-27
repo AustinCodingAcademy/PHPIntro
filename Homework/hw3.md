@@ -41,7 +41,7 @@ Follow along with each of the following PHP tutorials:
 * Associative php array
 * Element
 * Array size
-* Index
+* Index of an array element
 * Loop body
 * Key/value pair
 
