@@ -33,7 +33,7 @@ Follow along with each of the following PHP tutorials:
 
 ### Questions
 
-1. Define the following terms (Some may need to be googled):
+1) Define the following terms (Some may need to be googled):
 
 * Array
 * Sequential php array
@@ -44,22 +44,22 @@ Follow along with each of the following PHP tutorials:
 * Loop body
 * Key/value pair
 
-2. Why are Arrays useful? Why not just use multiple simple variables?
+2) Why are Arrays useful? Why not just use multiple simple variables?
 
-3. What is a characterstic exhibited by every non-empty Array?
+3) What is a characterstic exhibited by every non-empty Array?
 
-4. What is the size of the array `$myArray`? Do you need to know the contents of
+4) What is the size of the array `$myArray`? Do you need to know the contents of
 the array in order to answer this question?
 
-5. Assuming the array `$hobbies` is non-empty, what is the index of its last
+5) Assuming the array `$hobbies` is non-empty, what is the index of its last
 element? Do you need to know the contents of the array in order to answer this
 question?
 
-6. Assuming the array `$cars` is non-empty, what is the index of its first
+6) Assuming the array `$cars` is non-empty, what is the index of its first
 element? Do you need to know the contents of the array in order to answer this
 question?
 
-7. For the following foreach loops, fill in the blank with an appropriately named
+7) For the following foreach loops, fill in the blank with an appropriately named
 variable:
 
 a.
@@ -88,17 +88,17 @@ d.
         ...
     }
 
-8. Provide 10 examples of real-life objects or situations that could be
+8) Provide 10 examples of real-life objects or situations that could be
 represented by a PHP Array (either associative or sequential)
 
-9. Assuming the array `$games` is non-empty, what is the **value** of its last
+9) Assuming the array `$games` is non-empty, what is the **value** of its last
 element? Do you need to know the contents of the array in order to answer this
 question?
 
-10. (Discussion question): Regarding foreach loops, explain what the "current iteration"
+10) (Discussion question): Regarding foreach loops, explain what the "current iteration"
 or the "current element" means.
 
-11. (Bonus question): True or False: An array of 100 numbers takes up memory than
+11) (Bonus question): True or False: An array of 100 numbers takes up memory than
 100 individual numeric variables. Justify your answer.
 
 Problem 1 - Arrays - problem1.jpg
