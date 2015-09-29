@@ -145,45 +145,47 @@ Examples of Datasets that can be stored in Nested Arrays
 
 **Setup**
 
-1) Make a folder in your htdocs: `htdocs/day5`
+a) Make a folder in your htdocs: `htdocs/day5`
 
 
 **Preliminary Questions**
 
-2) Copy the code of the above array into your `htdocs/day5/ex1.php`.
+b) Copy the code of the above array into your `htdocs/day5/ex1.php`.
    Add a `print_r()` to print out the array.  Go to `{YOUR_IP_ADDRESS}/day5/ex1.php}`
    and see if you can see the array or if you get an error of some kind.
 
-3) What are those lines that say "# ..."?  Why are they most likely included?
+c) What are those lines that say "# ..."?  Why are they most likely included?
 
 
-*Finding Data in a Nested Array*
+**Finding Data in a Nested Array**
 
-4) Write the PHP code for accessing the Blue Book information
+d) Write the PHP code for accessing the Blue Book information
    for the Honda Civic in 2002.
 
-5) Write the PHP code for accessing the dealership price 
+e) Write the PHP code for accessing the dealership price 
    for the Ford Explorer in 2003.
 
-6) Write the PHP code for accessing the dealership price 
+f) Write the PHP code for accessing the dealership price 
    for the Ford Explorer in 2003.
 
 
-## Football Teams ##
 
-Q. Create a nested array that store some NFL teams and players.  Here's an example structure:
+
+## Example 1. Football Teams ##
+
+a) Create a nested array that store some NFL teams and players.  Here's an example structure:
 
     League => array of Conference => array of Team => array('player no', 'position', 'name')
 
 
 Once you have your array, write the php code the get the following data from it:
 
-Q. Get all quarterbacks in the NFL
+b) Get all quarterbacks in the NFL
 
-Q. Get all players with number 7, etc
+c) Get all players with number 7, etc
 
 
-## Back to cars - Deciding on a Car to Buy##
+## Example 2. Deciding on a Car to Buy##
 
 Suppose you have an array called `$carBuyingCriteriaImportance` whose keys are all the
 different criteria you care about when buying a car.  For each of the keys, the
