@@ -247,5 +247,5 @@ Q. Make up your own `$carBuyingCriteriaImportance` array using the criteria you 
 
 ## See also ##
 
-* [Lesson Summary Day 5](Day 5: Nested Arrays, Associative Arrays and Functions.md)
+* [Lesson Summary Day 5](/Lessons/Day 5: Nested Arrays, Associative Arrays and Functions.md)
 
