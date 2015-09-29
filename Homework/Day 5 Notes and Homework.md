@@ -1,8 +1,10 @@
 Day 5 Notes and Homework
 ------------------------
-Nested Arrays, Associative Arrays Review, Functions Review
+by Ryan Murphy
 
-Please turn this in by class on Tuesday, Sep 6, 2015.
+**Covers:** Nested Arrays, Associative Arrays Review, Functions Review
+
+**Due date:** Please turn this in by class on Tuesday, Sep 6, 2015.
 
 
 
