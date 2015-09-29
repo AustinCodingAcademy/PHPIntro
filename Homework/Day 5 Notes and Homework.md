@@ -13,7 +13,7 @@ Unified Notes and Homework: An Experment
 Today I'm trying out a change to the way we've been doing notes and homework.
 Instead of separate documents they will be the same one.
 
-We will work on the problems in class, as examples to illustrate the concepts
+We will work on these examples in class, to illustrate and clarify the concepts
 we are studying.  When class is over, whatever we haven't gone over is the
 homework.  Since you already have a lot of homework due this Thursday, this
 homework is not due until Tuesday Sep 6, 2015.
@@ -42,10 +42,10 @@ If I'm not available to help at the time then ask Brennon or Joe.  They are both
 very knowledgable and are here to help.
 
 
-Problem 0. Examples of Datasets that can be stored in Nested Arrays
--------------------------------------------------------------------
+Examples of Datasets that can be stored in Nested Arrays
+--------------------------------------------------------
 
-### Blue Book Listings of Cars ###
+### Example 0. Blue Book Listings of Cars ###
 
     <?php
     $blueBookListings = array(
