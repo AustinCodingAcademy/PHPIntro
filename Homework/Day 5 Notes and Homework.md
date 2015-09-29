@@ -244,3 +244,8 @@ Q. Make up your own `$carBuyingCriteriaImportance` array using the criteria you 
 
 * Issue Tracker => (subject, steps to reproduce, owner, date submitted, due date, reproduced y/n, feature)
 
+
+## See also ##
+
+* [Lesson Summary Day 5](Day 5: Nested Arrays, Associative Arrays and Functions.md)
+
