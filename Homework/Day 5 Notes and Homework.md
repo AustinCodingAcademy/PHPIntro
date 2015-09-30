@@ -2,7 +2,7 @@ Day 5 Notes and Homework
 ------------------------
 by Ryan Murphy
 
-**Covers:** Nested Arrays, Associative Arrays Review, Functions Review
+**Covers:** Nested Arrays, Associative Arrays, Functions
 
 **Due date:** Please turn this in by class on Tuesday, Sep 6, 2015.
 
@@ -47,7 +47,7 @@ Examples of Datasets that can be stored in Nested Arrays
 
 ### Example 0. Blue Book Listings of Cars ###
 
-    <?php
+   <?php
     $blueBookListings = array(
         2000 => array(
             'Honda' => array(
@@ -150,8 +150,8 @@ a) Make a folder in your htdocs: `htdocs/day5`
 
 **Preliminary Questions**
 
-b) Copy the code of the above array into your `htdocs/day5/ex1.php`.
-   Add a `print_r()` to print out the array.  Go to `{YOUR_IP_ADDRESS}/day5/ex1.php}`
+b) Copy the code of the above array into your `htdocs/day5/ex0.php`.
+   Add a `print_r()` to print out the array.  Go to `{YOUR_IP_ADDRESS}/day5/ex0.php}`
    and see if you can see the array or if you get an error of some kind.
 
 c) What are those lines that say "# ..."?  Why are they most likely included?
@@ -162,11 +162,33 @@ c) What are those lines that say "# ..."?  Why are they most likely included?
 d) Write the PHP code for accessing the Blue Book information
    for the Honda Civic in 2002.
 
-e) Write the PHP code for accessing the dealership price 
-   for the Ford Explorer in 2003.
+    <?php
+    echo $blueBookListings[2002]['Honda']['Civic'];
+    ?>
 
-f) Write the PHP code for accessing the dealership price 
-   for the Ford Explorer in 2003.
+e) Write the PHP code for accessing the dealership price 
+   for the Ford Explorer in 2001.
+
+    $blueBookListings[2001]['Ford']['Explorer']['dealer price']
+
+f) Write the PHP code for accessing the trade-in price 
+   for the Honda Accord in 2000.
+
+    $blueBookListings[2000]['Honda']['Accord']['trade-in price']
+
+g) Set the dealer price for the 2000 Honda Civic to $500 more than it is now.
+
+    $blueBookListings[2000]['Honda']['Civic']['dealer price'] += 500;
+
+h) EXTRA CREDIT Write code that finds the maximum dealer price in the whole array.
+
+i) Define a function getDealerPrice($year, $make, $model) that takes as input
+   a Year, Make and Model and returns the dealer price for that car.
+
+j) Define a function setTradeInPrice($year, $make, $model, $newPrice)
+   that overwrites the value of the trade-in price for that
+   particular car.  It doesn't need to return anything, it just
+   needs to overwrite that variable.
 
 
 
@@ -175,14 +197,64 @@ f) Write the PHP code for accessing the dealership price
 
 a) Create a nested array that store some NFL teams and players.  Here's an example structure:
 
-    League => array of Conference => array of Team => array('player no', 'position', 'name')
+    $NFL = array of Conference
+        => array of Team
+            => array('name', 'player no', 'position')
+
+    or
+
+    array of Countries 
+        => array of States/Provinces
+            => Cities
+                => Population
+
+    $NFL = array(
+        'NFC' => array(
+            'Dallas Cowboys' => array(
+                array(
+                    'name' => 'Tony Romo',
+                    'player no' => 9,
+                    'position' => 'quarterback',
+                ),
+                array(
+                    'name' => 'Dez Bryant',
+                    'player no' => 88,
+                    'position' => 'wide receiver',
+                ),
+                array(
+                    'name' => 'Kellen Moore',
+                    'player no' => 17,
+                    'position' => 'quarterback',
+                ),
+            ),
+            'New Orleans Saints' => array(
+                array(
+                    'name' => 'Drew Brees',
+                    'player no' => 9,
+                    'position' => 'quarterback',
+                ),
+            ),
+        ),
+        'AFC' => array(
+            'New England Patriots' => array(
+            ),
+        ),
+    );
 
 
 Once you have your array, write the php code the get the following data from it:
 
-b) Get all quarterbacks in the NFL
+b) Pick a Player and write the PHP code to access his player number.
 
-c) Get all players with number 7, etc
+c) Pick a Team and write the PHP code to go through a foreach loop and echo all
+   the players' names.
+
+
+EXTRA CREDIT
+
+...) Get all quarterbacks in the NFL
+
+...) Get all players with number 7
 
 
 ## Example 2. Deciding on a Car to Buy##
