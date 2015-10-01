@@ -1,0 +1,75 @@
+Day 6: Big-ish Data - Arrays, CSVs and SQL Tables
+==================================================
+
+
+
+
+
+
+## NFL Example Continued... ##
+
+
+...) Get all quarterbacks in the NFL
+
+...) Get all players with number 7
+
+
+## Example 2. Deciding on a Car to Buy##
+
+Suppose you have an array called `$carBuyingCriteriaImportance` whose keys are all the
+different criteria you care about when buying a car.  For each of the keys, the
+corresponding value is a number - the importance of that criteria from 0 to 10.
+
+It might look like this:
+
+    <?php
+    $carBuyingCriteriaImportance = array(
+        'affordability' => 6,
+        'sportiness' => 5,
+        'reliability' => 8,
+        'interior space' => 4,
+        'maintainability' => 5,
+    );
+
+Q. Make up your own `$carBuyingCriteriaImportance` array using the criteria you would use in buying a car.
+
+    $carCriteria = array(
+        'Honda Accord' => array(
+            'affordability' => 5,
+            'sportiness' => 4,
+            'reliability' => 7,
+            'interior space' => 5,
+            'maintainability' => 6,
+        ),
+        'Miata' => array(
+            'affordability' => 4,
+            'sportiness' => 8,
+            'reliability' => 4,
+            'interior space' => 3,
+            'maintainability' => 4,
+        ),
+        'Ford Explorer' => array(
+            'affordability' => 4,
+            'sportiness' => 5,
+            'reliability' => 5,
+            'interior space' => 9,
+            'maintainability' => 5,
+        ),
+    );
+    ?>
+
+
+
+
+## Other Ideas ##
+
+* Classes => Students => Assignments => Grades
+
+* Social Posts => Content, Comments (=> user, content, time), Likes (=> user, time), Post Time
+
+* Drinks / Cocktails => array of (Quantity, Unit, Ingredient)
+
+* Restaurant Orders => (Table #, Items, Time, Server, Delivered y/n)
+
+* Issue Tracker => (subject, steps to reproduce, owner, date submitted, due date, reproduced y/n, feature)
+
