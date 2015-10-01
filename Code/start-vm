@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "VirtualMachine Quick-Start!"
 echo "This script works for Macs and Linux only (not Windows)"
 cd ~/Desktop/VirtualMachines
 vagrant up
