@@ -47,6 +47,7 @@ Examples of Datasets that can be stored in Nested Arrays
 
 ### Example 0. Blue Book Listings of Cars ###
 
+```php
    <?php
     $blueBookListings = array(
         2000 => array(
@@ -142,6 +143,7 @@ Examples of Datasets that can be stored in Nested Arrays
         # ...
     );
     ?>
+```
 
 **Setup**
 
