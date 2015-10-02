@@ -29,5 +29,5 @@ Exercises: CSV Import - Austin Weather
 
 4. Using a method similar to the associative array CSV import that we did later in class, (look at [Notes/day6notes/csv-assoc.php](/Notes/day6notes/csv-assoc.php) for reference), import the same CSV file into an associative array and `print_r()` the result.
 
-5. Extra Credit: Find the day with the highest Max Humidity.
+5. **Extra Credit:** Find the day with the highest Max Humidity.
 
