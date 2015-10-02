@@ -23,7 +23,7 @@ Exercises: CSV Import - Austin Weather
 
 1. Using a method similar to the first CSV import we did in class (look at [Notes/day6notes/csv2.php](/Notes/day6notes/csv2.php) for reference), import this weather CSV into a PHP array, and `print_r()` the results.  Put your work in a file called `day6hw/ex1.php`.
 
-2. Look at the array you now have (called `$rows` in the csv2.php example).  Is this a nested array?  If so, how deeply nested?  Is this an associative array or a sequential array?  (Put answers in `day6hw/ex2`). Put your answers in a file called `day6hw/ex2`.
+2. Look at the array you now have (called `$rows` in the csv2.php example).  Is this a nested array?  If so, how deeply nested?  Is this an associative array or a sequential array?  Put your answers in a file called `day6hw/ex2`.
 
 3. Where are the column / field names stored in your array?  Define a variable called `$fieldNames` and store the field names in it.  Try to automatically get the field names without having to manually type them in in your code.  Copy your `ex1.php` to `ex3.php` and add the `$fieldNames` to your code and `print_r()` it.
 
