@@ -8,7 +8,7 @@ Instructions and Setup
 
 This homework is to help solidify the CSV and array concepts we learned in Thursday class.  If you have any questions please ask me at [ryan@austincodingacademy.com](mailto:ryan@austincodingacademy.com).
 
-0. Consult the [Notes from Day 6](/Lessons/day6notes) of class to remind yourself of the different ways we worked with CSV files in class. We will refer to these examples in the homework problems below.
+0. Consult the [Notes from Day 6](/Notes/day6notes) of class to remind yourself of the different ways we worked with CSV files in class. We will refer to these examples in the homework problems below.
 
 1. Create a folder called `day6hw` in your `htdocs`.  You will put all files related to this homework in this folder.
 
