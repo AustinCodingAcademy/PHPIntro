@@ -1,4 +1,5 @@
 <?php
+# note - csv2.php is broken down a bit simpler, look at that for an easier example
 $row = 1;
 $rows = array();
 if (($handle = fopen("Data/NFL-players-2013-12-12.csv", "r")) !== FALSE) {
