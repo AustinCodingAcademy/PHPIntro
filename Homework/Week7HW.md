@@ -31,3 +31,23 @@ C)
 
 
 D)
+
+### Problem 2
+
+Create for loops which satisfy the provided requirements.
+
+EXAMPLE) Create a for loop that
+
+* initially assigns $i to 5
+* continues while $i is less than 10
+* prints out "hi" inside the loop body
+* increments $i by 1 after each loop
+
+ANSWER)
+
+```php
+for($i=0; $i<10; $i++){
+    echo "hi";
+}
+```
+
