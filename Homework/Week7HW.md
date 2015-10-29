@@ -22,10 +22,6 @@ Section 1 - For loops
 
 What is a loop? What images come to mind when you think of a loop?
 
-Maybe a symbol like this? (image credit: [whatcommarketing](http://whatcommarketing.com/))
-
-![](http://i.imgur.com/ff5nwoz.png)
-
 Maybe a loop used in skateboarding / extreme sports? (image credit: [Wired](http://www.wired.com/2014/02/slowest-running-speed-loop-loop/))
 
 ![](http://i.imgur.com/q34jclS.jpg) 
@@ -37,6 +33,10 @@ Maybe a knot? (image credit: [animatedknots](http://www.animatedknots.com/perfec
 Maybe a roller coaster? (image credit: [thatsmaths.com](http://thatsmaths.com/2014/04/10/rollercoaster-loops/))
 
 ![](http://i.imgur.com/F1FdGsm.png)
+
+What do all of these have in common?
+
+
 
 
 
