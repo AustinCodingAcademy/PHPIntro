@@ -37,7 +37,7 @@ Maybe a roller coaster? (image credit: [thatsmaths.com](http://thatsmaths.com/20
 **What do all of these have in common?**  
 
 In all the images above, regardless of the shape of the loop or the purpose of
-the loop, all the loops *end* where they initially *begin*.
+the loop, **all the loops end where they initially began**.
 
 
 
