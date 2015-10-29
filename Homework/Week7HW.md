@@ -46,10 +46,12 @@ EXAMPLE) Create a for loop that
     + print out the value of $i
 
 
-    for($i=5; $i<10; $i++){
-        echo "hi";
-        echo $i;
-    }
+```
+for($i=5; $i<10; $i++){
+    echo "hi";
+    echo $i;
+}
+```
 
 A) Create a for loop that
 
