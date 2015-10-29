@@ -38,7 +38,7 @@ Create for loops which satisfy the provided requirements.
 
 EXAMPLE) Create a for loop that
 
-* initially assigns $i to 5
+* initially sets $i to 5
 * continues while $i is less than 10
 * prints out "hi" inside the loop body
 * increments $i by 1 after each loop
@@ -46,7 +46,7 @@ EXAMPLE) Create a for loop that
 ANSWER)
 
 ```php
-for($i=0; $i<10; $i++){
+for($i=5; $i<10; $i++){
     echo "hi";
 }
 ```
