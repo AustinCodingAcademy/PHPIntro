@@ -87,6 +87,15 @@ D) Create a for loop that
 
 * initially sets $a to 10
 * continues while $a-2 is greater than or equal to 0
-* decremetns $a by 2 after each loop
+* decrements $a by 2 after each loop
 * within the loop body, the loop should
     + print out "going down"
+
+
+E) Create a for loop that
+
+* initially sets $b to 26
+* continues while $b is greater than or equal to 4
+* halves the value of $b after each loop
+* within the loop body, the loop should
+    + print out "half and half"
