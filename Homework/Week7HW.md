@@ -45,7 +45,6 @@ EXAMPLE) Create a for loop that
     + print out "hi"
     + print out the value of $i
 
-ANSWER TO EXAMPLE)
 
     for($i=5; $i<10; $i++){
         echo "hi";
