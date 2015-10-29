@@ -15,8 +15,8 @@ Topics
 Fundamentals
 ============
 
-For loops
----------
+Section 1 - For loops
+---------------------
 
 ### Problem 1
 
@@ -102,6 +102,24 @@ E) Create a for loop that
 * halves the value of $b after each loop
 * within the loop body, the loop should
     + print out "half and half"
+
+Section 2 - While loops
+---------------------
+
+Section 3 - Conditional statements
+---------------------
+
+Section 4 - Functions
+---------------------
+
+Section 5 - SQL
+---------------------
+
+Section 6 - isset/unset
+---------------------
+
+Section 7 - implode/explode
+---------------------
 
 Application
 ===========
