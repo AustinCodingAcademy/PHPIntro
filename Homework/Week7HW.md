@@ -54,17 +54,6 @@ ANSWER TO EXAMPLE)
 
 A) Create a for loop that
 
-* initially sets $i to 5
-* continues while $i is less than 10
-* increments $i by 1 after each loop
-* within the loop body, the loop should
-    + print out "hi"
-    + print out the value of $i
-
-
-
-B) Create a for loop that
-
 * initially sets $j to 10
 * continues while $j is greater than 0
 * decrements $j by 1 after each loop
@@ -73,7 +62,7 @@ B) Create a for loop that
 
 
 
-C) Create a for loop that
+B) Create a for loop that
 
 * initially sets $k to 1
 * continues while 2*$k is less than 20
@@ -83,7 +72,7 @@ C) Create a for loop that
 
 
 
-D) Create a for loop that
+C) Create a for loop that
 
 * initially sets $i to 0
 * continues while $i is less than count($array)
@@ -93,7 +82,7 @@ D) Create a for loop that
 
 
 
-E) Create a for loop that
+D) Create a for loop that
 
 * initially sets $a to 10
 * continues while $a-2 is greater than or equal to 0
