@@ -12,6 +12,9 @@ Topics
 * isset/unset
 * implode/explode
 
+Fundamentals
+============
+
 For loops
 ---------
 
@@ -99,3 +102,6 @@ E) Create a for loop that
 * halves the value of $b after each loop
 * within the loop body, the loop should
     + print out "half and half"
+
+Application
+===========
