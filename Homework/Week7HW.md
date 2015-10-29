@@ -40,14 +40,17 @@ EXAMPLE) Create a for loop that
 
 * initially sets $i to 5
 * continues while $i is less than 10
-* prints out "hi" inside the loop body
 * increments $i by 1 after each loop
+* within the loop body, the loop should
+    + print out "hi"
+    + print out the value of $i
 
 ANSWER)
 
 ```php
 for($i=5; $i<10; $i++){
     echo "hi";
+    echo $i;
 }
 ```
 
