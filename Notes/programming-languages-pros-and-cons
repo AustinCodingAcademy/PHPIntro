@@ -1,0 +1,39 @@
+Programming Languages' Pros and Cons
+====================================
+
+So I've been thinking a lot about coding this weekend.
+I've had a lot of thoughts about ways to read and write data,
+and about different programming languages and their pros and cons.
+It's pretty abstract - I wouldn't worry about any of this stuff
+being on any tests or anything - but I did want to share some of
+my thoughts in case some of you find it interesting.
+
+As I said, I've been thinking about the strength and weaknesses - as well as the
+similarities and differences - of different programming languages.  Here's
+a high-level breakdown of my current opinions:
+
+### PHP ###
+
+    * **Strength**
+        * very popular and common - easy setup, often already done for you
+        * excellent templating, especially for HTML / Web stuff
+        * great syntax highlighting in many text editors
+          - allows you to have your PHP, HTML and javascript
+            all highlighted nicely in the same file!
+        * unique output-buffer stack that makes it easier to move
+          from non-functional to functional programming styles
+          without making huge, hard-to-test changes to your code
+        * amazing for producing structured output, e.g. HTML, JSON or with fill-in-the-blank
+          where you can add in your custom code
+
+    * **Weaknesses**
+        * "hacked-together", inconsistent function names and APIs
+        * somewhat inefficient compared to other programming languages, as far as actual
+          machine processing is concerned.  (Note that this may not matter nearly
+          as much to your project's bottom-line as the human factors of how easy it
+          is to form a strong dev team that is able to add features, fix bugs and
+          maintain the code-base without letting it get cluttered up, bloated and
+          hard to work on)
+        * because the templating is so strong (e.g. you can put HTML *anywhere*),
+          there is the risk of the codebase getting messy due to people sprinkling
+          the HTML all over the code-base
