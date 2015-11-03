@@ -209,14 +209,14 @@ complex problems has been well-honed.
       implement later, but for now leave empty as a reminder of
       your plan
 
-* **2E: more HTML and Javascript**
+* **2C: more HTML and Javascript**
     * Learn how Javascript interfaces with HTML
     * Learn how to include and use jQuery
     * Learn how PHP and Javascript interact
     * Talk about APIs and how AJAX requests are used to fetch data
       without reloading the page
 
-* **2F: Continue work on Final Project**
+* **2D: Continue work on Final Project**
     * Build out our database functions for creating, editing and deleting articles
     * Build HTML Forms for creating and editing articles, and hook them to the DB functions
     * Create a Table-of-Contents with Anchor Links pointing to the Articles
